@@ -2,10 +2,13 @@
 layout: default
 ---
 
-# Test
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome to my homepage.
 
+&#9654; [CV](./CV.html)<br/>
+&#9654; [publications](./publications.html)<br/>
 
+I can also be found at:
 
-[Link to another page](./CV.html).
+&#9654; [github](https://github.com/jonalm)<br/>
+&#9654; [linkedIN](https://www.linkedin.com/in/jonalm/)
