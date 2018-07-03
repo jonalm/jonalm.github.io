@@ -10,7 +10,7 @@ layout: default
 _Feb 2017 - present_
 
 Building machine learning models for industrial big data applications.
-Some highlights includes:
+Some highlights include:
 
 - Created an application for parsing process and instrumentation diagrams (P&IDs) based on a combination of image recognition techniques and OCR.
 - Developed ML model to predict ship hull fouling based on noon report data, which matches the performance of numerically costly CFD based models, for clients in the maritime sector.
