@@ -14,7 +14,7 @@ Building machine learning and statistical models for industrial big data applica
 - Created an application for parsing process and instrumentation diagrams (P&IDs) based on a combination of image recognition techniques and OCR.
 - Developed ML model to predict ship hull fouling based on noon report data, which matches the performance of numerically costly CFD based models, for clients in the maritime sector.
 - Deployed an application for real time visualization and KPI calculations of sensor data from a production process for a large manufacturer of sewing thread.
-- Successfully identified several causes of production failures at a chemical plant using advanced statistical modeling.
+- Successfully identified several causes of production failures at a chemical plant using Bayesian multilevel regression.
 
 
 ### Postdoc in Biostatistics at [NORMENT (CoE), UiO](https://www.med.uio.no/norment/english/)
