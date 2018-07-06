@@ -9,8 +9,7 @@ layout: default
 ### Data Scientist at [Arundo Analytics](https://www.arundo.com/)
 _Feb 2017 - present_
 
-Building machine learning models for industrial big data applications.
-Some highlights include:
+Building machine learning and statistical models for industrial big data applications. Some highlights include:
 
 - Created an application for parsing process and instrumentation diagrams (P&IDs) based on a combination of image recognition techniques and OCR.
 - Developed ML model to predict ship hull fouling based on noon report data, which matches the performance of numerically costly CFD based models, for clients in the maritime sector.
@@ -22,7 +21,7 @@ Some highlights include:
 _June 2015 – Feb 2017_
 
 - Characterized geno-/phenotype mapping of mental disorders, focusing on polygenic effects. 
-- Developed statistical methods and machine learning models to identify pleiotropic effects.
+- Developed statistical methods to identify pleiotropic effects.
 - Work involved heavy lifting of big data containing DNA sequences and patient databases, and running analysis on UIO's high-performance computing facilities.
 
 ### Research Fellow (Stipendiat) at UiO
@@ -75,7 +74,7 @@ _2007_
 
 - Computer skills
 	- Write code in Python on a daily basis.
-	- Proficient in numerical computing languages: Julia, Stan, R, Matlab.
+	- Proficient in numerical computing languages: Julia, TensorFlow, Stan, R, Matlab.
 	- Working knowledge in Linux/UNIX, Docker, C/C++, git, Jira etc.
 - Voluntary work
 	- Booking manager at the Student Society in Trondheim 2004-2006. Organized weekly concerts at venues with a capacity of 300-1000.
