@@ -74,7 +74,7 @@ _2007_
 
 - Computer skills
 	- Write code in Python on a daily basis.
-	- Proficient in numerical computing languages: Julia, TensorFlow, Stan, R, Matlab.
+	- Proficient in numerical computing languages/frameworks: Julia, TensorFlow, Stan, Matlab.
 	- Working knowledge in Linux/UNIX, Docker, C/C++, git, Jira etc.
 - Voluntary work
 	- Booking manager at the Student Society in Trondheim 2004-2006. Organized weekly concerts at venues with a capacity of 300-1000.
