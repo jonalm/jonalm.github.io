@@ -9,7 +9,7 @@ layout: default
 ### Data Scientist at [Arundo Analytics](https://www.arundo.com/)
 _Feb 2017 - present_
 
-Building machine learning and statistical models for industrial big data applications. Some highlights include:
+Building machine learning and statistical models for industrial big data applications.
 
 - Created an application for parsing process and instrumentation diagrams (P&IDs) based on a combination of image recognition techniques and OCR.
 - Developed ML model to predict ship hull fouling based on noon report data, which matches the performance of numerically costly CFD based models, for clients in the maritime sector.
