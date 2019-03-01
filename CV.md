@@ -6,8 +6,13 @@ layout: default
 
 # Experience
 
+### Data Science Architect at [Novelda](https://www.xethru.com//)
+_Feb 2019 - present_
+
+Designing machine learning algorithms applied to pulse-Doppler radar signals.
+
 ### Data Scientist at [Arundo Analytics](https://www.arundo.com/)
-_Feb 2017 - present_
+_Feb 2017 - Feb 2019_
 
 Building machine learning and statistical models for industrial big data applications.
 
@@ -15,12 +20,13 @@ Building machine learning and statistical models for industrial big data applica
 - Developed ML model to predict ship hull fouling based on noon report data, which matches the performance of numerically costly CFD based models, for clients in the maritime sector.
 - Deployed an application for real time visualization and KPI calculations of sensor data from a production process for a large manufacturer of sewing thread.
 - Successfully identified several causes of production failures at a chemical plant using Bayesian multilevel regression.
+- Created proof of concept of a virtual multi-flow meter for offshore oil and gas wells, combining physical insight with machine learning methods.
 
 
 ### Postdoc in Biostatistics at [NORMENT (CoE), UiO](https://www.med.uio.no/norment/english/)
 _June 2015 – Feb 2017_
 
-- Characterized geno-/phenotype mapping of mental disorders, focusing on polygenic effects. 
+- Characterized geno-/phenotype mapping of mental disorders, focusing on polygenic effects.
 - Developed statistical methods to identify pleiotropic effects.
 - Work involved heavy lifting of big data containing DNA sequences and patient databases, and running analysis on UIO's high-performance computing facilities.
 
@@ -29,7 +35,7 @@ _Jan. 2011 – May 2015_
 
 Developed simulations and theoretical models for multiphase flow phenomena, and characterized complex patterning behavior involving granular materials.
 
-- One year residence at [Prof. Ruben Juanes group, MIT](http://juanesgroup.mit.edu/), developing phase field models for simulating surface tension effect. 
+- One year residence at [Prof. Ruben Juanes group, MIT](http://juanesgroup.mit.edu/), developing phase field models for simulating surface tension effect.
 - One year residence  at [ÉOST, Univ. de Strasbourg](https://eost.unistra.fr/en/).
 - Results presented in 4 peer reviewed papers, and at 6 international conferences.
 
@@ -59,8 +65,8 @@ _2010_
 
 Thesis: _Overlap Distributions of Random Cantor Sets and their Applications._
 
--  One year residence at SINP, Calcutta, India. Supervised by [Prof. Bikas Chakrabarti](http://www.saha.ac.in/cmp/bikask.chakrabarti/bikas.html). 
--  Two semesters coursework with focus on theoretical physics, at Univ. of California, Berkeley. 
+-  One year residence at SINP, Calcutta, India. Supervised by [Prof. Bikas Chakrabarti](http://www.saha.ac.in/cmp/bikask.chakrabarti/bikas.html).
+-  Two semesters coursework with focus on theoretical physics, at Univ. of California, Berkeley.
 -  Grade on thesis: A, results published in peer reviewed journal.
 -  Average grade on coursework: A.
 
