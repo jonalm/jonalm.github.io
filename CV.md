@@ -6,8 +6,11 @@ layout: default
 
 # Experience
 
-### Data Science Architect at [Novelda](https://www.xethru.com//)
-_Feb 2019 - present_
+### Head of Software and Data Science at [Bio-Me](https://bio-me.com/)
+_Mar 2023 - present_
+
+### Data Science Architect at [Novelda](https://www.novelda.com/)
+_Feb 2019 - Feb 2023_
 
 Designing machine learning algorithms applied to pulse-Doppler radar signals.
 
@@ -42,7 +45,7 @@ Developed simulations and theoretical models for multiphase flow phenomena, and 
 ### Mathematics Teacher at Hartvig Nissen VGS
 _Sept. 2010 – Dec. 2010_
 
-Taught mathematics and physics at high school level, awaiting the Research Fellow position financed under a project starting in 2011.
+Taught mathematics and physics at high school level.
 
 ### Analyst at Intelligent Decisions AS (now DNV-GL)
 _June - July 2007 & 2008_
@@ -58,7 +61,6 @@ _2015_
 Thesis: _Pattern Formation in Granular Fluids._
 
 - Advisors: Eirik Flekkøy, Knut Jørgen Måløy and Renaud Toussiant
-- Evaluated as comparable to the best PhD theses in France by the (french) adjudication committee.
 
 ### M.Sc. in Physics, NTNU
 _2010_
@@ -67,25 +69,10 @@ Thesis: _Overlap Distributions of Random Cantor Sets and their Applications._
 
 -  One year residence at SINP, Calcutta, India. Supervised by [Prof. Bikas Chakrabarti](http://www.saha.ac.in/cmp/bikask.chakrabarti/bikas.html).
 -  Two semesters coursework with focus on theoretical physics, at Univ. of California, Berkeley.
--  Grade on thesis: A, results published in peer reviewed journal.
--  Average grade on coursework: A.
+
 
 ### B.Sc. in Physics, NTNU
 _2007_
 
 - Teaching assistant in calculus and mathematical analysis
-- Non-degree coursework in statistics and neuroscience.
 
-# Other
-
-- Computer skills
-	- Write code in Python on a daily basis.
-	- Proficient in numerical computing languages/frameworks: Julia, TensorFlow, Stan, Matlab.
-	- Working knowledge in Linux/UNIX, Docker, C/C++, git, Jira etc.
-- Voluntary work
-	- Booking manager at the Student Society in Trondheim 2004-2006. Organized weekly concerts at venues with a capacity of 300-1000.
-- Grants
-	- Received the Eiffel Scholarship, an official French grant.
-- Languages
-	- Norwegian (Native)
-	- English (Fluent)
